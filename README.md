@@ -1,4 +1,4 @@
-# Introducción a Contorl Digital
+# Introducción a Control Digital
 
 El control digital a menudo se percibe como diferente del control analógico, que inicialmente se investiga en el campo del control. Pero en realidad es la transferencia del sistema de control analógico completo a una unidad digital lo que da origen al control digital.
 
